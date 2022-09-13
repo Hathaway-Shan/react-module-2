@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  background-size: cover;
+  height: 640px;
+  align-content: flex-start;
+  position: relative;
+}
